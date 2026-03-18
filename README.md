@@ -21,6 +21,7 @@ I'm Aodhan. Embedded systems engineer building scientific instruments with FPGAs
 | [ads131e08-breakout](https://github.com/murdoa/ads131e08-breakout) | Breakout board for the TI ADS131E08 24-bit ADC |
 | [tdc7200-rs](https://github.com/murdoa/tdc7200-rs) | `#![no_std]` Rust driver for the TI TDC7200 time-to-digital converter (embedded-hal 1.0) |
 | [ioptron-solar-guider](https://github.com/solarpi-org/ioptron-solar-guider) | Automated solar tracking with iOptron mounts and Hinode guider feedback |
+| [kicad-ci-automation](https://github.com/solarpi-org/kicad-ci-automation) | KiCad CI automation: ERC, DRC, ODB++ export, and visual diffs via Nix |
 
 ## 🛠️ Tools of the trade
 
