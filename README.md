@@ -19,6 +19,7 @@ I'm Aodhan. Embedded systems engineer building scientific instruments with FPGAs
 | [nixos-rock5t](https://github.com/murdoa/nixos-rock5t) | NixOS on the Radxa Rock 5T |
 | [same54-devboard](https://github.com/murdoa/same54-devboard) | Custom Microchip SAME54 development board |
 | [ads131e08-breakout](https://github.com/murdoa/ads131e08-breakout) | Breakout board for the TI ADS131E08 24-bit ADC |
+| [tdc7200-rs](https://github.com/murdoa/tdc7200-rs) | `#![no_std]` Rust driver for the TI TDC7200 time-to-digital converter (embedded-hal 1.0) |
 | [ioptron-solar-guider](https://github.com/solarpi-org/ioptron-solar-guider) | Automated solar tracking with iOptron mounts and Hinode guider feedback |
 
 ## 🛠️ Tools of the trade
