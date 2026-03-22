@@ -15,6 +15,7 @@ I'm Aodhan. Embedded systems engineer building scientific instruments with FPGAs
 
 | Project | What it is |
 |---|---|
+| [finix-rk3506](https://github.com/murdoa/finix-rk3506) | Porting finix (NixOS alternative with finit) to Rockchip RK3506G2 |
 | [coldstart](https://github.com/murdoa/coldstart) | GPS NMEA receiver simulator with real orbital mechanics |
 | [tdc7200-rs](https://github.com/murdoa/tdc7200-rs) | `#![no_std]` Rust driver for the TI TDC7200 time-to-digital converter (embedded-hal 1.0) |
 | [same54-devboard](https://github.com/murdoa/same54-devboard) | Custom Microchip SAME54 development board |
