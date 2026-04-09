@@ -23,6 +23,7 @@ I'm Aodhan. Embedded systems engineer building scientific instruments with FPGAs
 | [ioptron-solar-guider](https://github.com/solarpi-org/ioptron-solar-guider) | Automated solar tracking with iOptron telescope mounts and active feedback (Hinode Solar Guider) |
 | [kicad-ci-automation](https://github.com/solarpi-org/kicad-ci-automation) | KiCad CI automation: ERC, DRC, ODB++ export, and visual diffs via Nix |
 | [nixos-rock5t](https://github.com/murdoa/nixos-rock5t) | NixOS on the Radxa Rock 5T |
+| [nixos-rpi](https://github.com/murdoa/nixos-rpi) | NixOS Raspberry Pi image template for Pi 0/3/4 boards |
 | [nixos-ephemeral-hetzner](https://github.com/murdoa/nixos-ephemeral-hetzner) | Throwaway NixOS instances on Hetzner Cloud via nixos-anywhere |
 
 ## 🛠️ Tools of the trade
